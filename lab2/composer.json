@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "classmap": [
+      "assets"
+    ],
+    "files": [
+      "config.php",
+      "controllers/functions.php"
+    ]
+  }
+}
